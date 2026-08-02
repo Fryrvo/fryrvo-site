@@ -10,11 +10,3 @@ theme = 'github-style'
   twitter = 'Fryrvo'
   location = 'Earth'
   avatar = 'https://github.com/Fryrvo.png'
-
-[[params.links]]
-    title = 'SoundCloud'
-    href = 'https://soundcloud.com/fryrvo'
-
-[[params.links]]
-    title = 'Apple Music'
-    href = 'https://music.apple.com/us/artist/fryrvo/678042795'
