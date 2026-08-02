@@ -2,8 +2,7 @@
 <title>Fryrvo</title>
 <meta name="description" content="I'm Fryrvo.">
 
-{{ $style := resources.Get "css/main.css" | resources.Minify }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+{{ partial "head/css.html" . }}
 
 <script type="application/ld+json">
 {
