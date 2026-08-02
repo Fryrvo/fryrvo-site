@@ -1,0 +1,12 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Fryrvo Fox'
+theme = 'github-style'
+
+[params]
+  author = 'Fryrvo Fox'
+  description = 't'
+  github = 'Fryrvo'
+  twitter = 'Fryrvo'
+  location = 'Earth'
+  avatar = 'https://github.com/Fryrvo.png'
