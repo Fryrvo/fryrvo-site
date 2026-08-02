@@ -2,4 +2,4 @@
 title: "README.md"
 ---
 
-# Hi, I'm Fryrvo 👋
+Hi, I'm Fryrvo 👋
