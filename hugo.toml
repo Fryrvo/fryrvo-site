@@ -11,3 +11,7 @@ theme = 'github-style'
   location = 'Earth'
   email = 'fryrvo@fryrvo.com'
   avatar = 'https://github.com/Fryrvo.png'
+
+  enableHeader = true
+  showPosts = true
+  showProjects = true
