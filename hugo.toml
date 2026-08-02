@@ -15,3 +15,5 @@ theme = 'github-style'
   enableHeader = true
   showPosts = true
   showProjects = true
+
+  Modrinth = 'https://modrinth.com/user/Fryrvo'
