@@ -5,11 +5,9 @@ theme = 'github-style'
 
 [params]
   author = 'Fryrvo Fox'
-  pronouns = 'they/them'
-  description = 'i like rock'
+  description = '(they/them) • i like rock'
   github = 'Fryrvo'
   twitter = 'Fryrvo'
-  Modrinth = 'https://modrinth.com/user/Fryrvo'
   location = 'Earth'
   email = 'fryrvo@fryrvo.com'
   avatar = 'https://github.com/Fryrvo.png'
@@ -18,3 +16,7 @@ theme = 'github-style'
   showPosts = true
   showProjects = true
 
+[[menu.main]]
+  name = "Modrinth"
+  url = "https://modrinth.com/user/Fryrvo"
+  weight = 3
