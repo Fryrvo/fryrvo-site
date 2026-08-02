@@ -7,10 +7,9 @@ title: "README.md"
 > <br>
 > **i Mostly known as Musician i also do server stuff!**
 
-> [!NOTE]
 > **i like stone they are so cool!**
 > <br>
-> <sup>i like to said i like Rock but people assume that i like Rock+Music =( </sup>
+> i like to said i like Rock but people assume that i like Rock+Music =( </sup>
 >
 > **Pural / 2e**
 
