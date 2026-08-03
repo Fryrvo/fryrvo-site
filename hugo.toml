@@ -25,11 +25,12 @@ theme = 'github-style'
   enableHeader = true
   showPosts = true
   showProjects = true
+  enableGitalk = true
 
 [params.gitalk]
     clientID = "Ov23liWsEbtdc1ph9gh7"
     clientSecret = "7ac161a21846782548c2f7da079615a2ffde1737"
-    repo = "fryrvo-site.github.io"
+    repo = "fryrvo-site"
     owner = "Fryrvo"
     admin = ["Fryrvo"]
     id = "location.pathname"
