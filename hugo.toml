@@ -10,7 +10,7 @@ theme = 'github-style'
   twitter = 'Fryrvo'
   location = 'Earth'
   email = 'fryrvo@fryrvo.com'
-  avatar = 'https://github.com/Fryrvo.png'
+  avatar = 'https://cdn.jsdelivr.net/gh/Fryrvo/fryrvo-site@main/static/images/fryrvo.png'
 
   keywords = "blog, Fryrvo"
   rss = false
