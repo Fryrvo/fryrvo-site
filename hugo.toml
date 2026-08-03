@@ -48,10 +48,10 @@ theme = 'github-style'
 
 [[params.links]]
   title = "Modrinth"
-  href = "https://modrinth.com/user/Fryrvo"
+  href = "https://fryrvo.com/modrinth"
   icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/modrinth.png"
 
 [[params.links]]
   title = "Spotify"
-  href = "https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3"
+  href = "https://fryrvo.com/spotify"
   icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png"
