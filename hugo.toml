@@ -16,8 +16,10 @@ theme = 'github-style'
   showPosts = true
   showProjects = true
 
+  favicon = '/images/favicon.png'
+  
   custom_js = ["js/schema.js"]
-
+   
 
 [services]
   [services.googleAnalytics]
