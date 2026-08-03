@@ -16,7 +16,5 @@ theme = 'github-style'
   showPosts = true
   showProjects = true
 
-[[menu.main]]
-  name = "Modrinth"
-  url = "https://modrinth.com/user/Fryrvo"
-  weight = 3
+[params]
+  custom_js = ["js/schema.js"]
