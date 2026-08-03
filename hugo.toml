@@ -16,5 +16,4 @@ theme = 'github-style'
   showPosts = true
   showProjects = true
 
-[params]
   custom_js = ["js/schema.js"]
