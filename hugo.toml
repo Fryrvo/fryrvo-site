@@ -17,3 +17,8 @@ theme = 'github-style'
   showProjects = true
 
   custom_js = ["js/schema.js"]
+
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-JE9TN7XTBZ"
