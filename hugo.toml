@@ -26,6 +26,19 @@ theme = 'github-style'
   showPosts = true
   showProjects = true
 
+[params.gitalk]
+    clientID = "Ov23liWsEbtdc1ph9gh7"
+    clientSecret = "7ac161a21846782548c2f7da079615a2ffde1737"
+    repo = "fryrvo-site.github.io"
+    owner = "Fryrvo"
+    admin = ["Fryrvo"]
+    id = "location.pathname"
+    labels = ["gitalk"]
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
 [services]
   [services.googleAnalytics]
     ID = "G-JE9TN7XTBZ"
