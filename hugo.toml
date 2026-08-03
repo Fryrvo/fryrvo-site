@@ -12,15 +12,25 @@ theme = 'github-style'
   email = 'fryrvo@fryrvo.com'
   avatar = 'https://github.com/Fryrvo.png'
 
+  favicon = '/images/favicon.png'
+  headerIcon = '/images/avatar.png'
+
+  custom_js = ["js/schema.js"]
+   
   enableHeader = true
   showPosts = true
   showProjects = true
 
-  favicon = '/images/favicon.png'
-  
-  custom_js = ["js/schema.js"]
-   
-
 [services]
   [services.googleAnalytics]
     ID = "G-JE9TN7XTBZ"
+
+[[params.links]]
+  title = "Modrinth"
+  href = "https://modrinth.com/user/Fryrvo"
+  icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/modrinth.png"
+
+[[params.links]]
+  title = "Spotify"
+  href = "https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3"
+  icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png"
