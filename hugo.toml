@@ -13,7 +13,7 @@ theme = 'github-style'
   avatar = 'https://github.com/Fryrvo.png'
 
   keywords = "blog, Fryrvo"
-  rss = true
+  rss = false
   lastmod = true
   userStatusEmoji = "🪨"
 
