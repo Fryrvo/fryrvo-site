@@ -39,6 +39,10 @@ theme = 'github-style'
     pagerDirection = "last"
     createIssueManually = true
     distractionFreeMode = false
+[[menu.main]]
+  name = "EC App"
+  url = "/app/ec/"
+  weight = 30
 
 [services]
   [services.googleAnalytics]
