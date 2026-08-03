@@ -12,6 +12,11 @@ theme = 'github-style'
   email = 'fryrvo@fryrvo.com'
   avatar = 'https://github.com/Fryrvo.png'
 
+  keywords = "blog, Fryrvo"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "🪨"
+
   favicon = '/images/favicon.png'
   headerIcon = '/images/avatar.png'
 
