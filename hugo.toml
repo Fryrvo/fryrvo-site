@@ -19,8 +19,6 @@ theme = 'github-style'
 
   favicon = '/images/favicon.png'
   headerIcon = '/images/avatar.png'
-
-  custom_js = ["js/schema.js"]
    
   enableHeader = true
   showPosts = true
