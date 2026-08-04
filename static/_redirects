@@ -19,3 +19,5 @@
 /fosh  https://github.com/Foshfox                               301
 /fyinn https://github.com/Fyinnfox                              301
 /fyivy https://github.com/Fyivy                                 301
+
+/app/tool/*  /app/tool/index.html  200
