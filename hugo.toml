@@ -1,6 +1,6 @@
 baseURL = 'https://fryrvo.com'
 languageCode = 'en-us'
-title = 'Fryrvo Fox'
+title = 'Fryrvo'
 theme = 'github-style'
 
 [params]
@@ -10,6 +10,7 @@ theme = 'github-style'
   twitter = 'Fryrvo'
   location = 'Earth'
   email = 'fryrvo@fryrvo.com'
+  url = "https://fryrvo.com"
   avatar = '/images/fryrvo.png'
 
   keywords = "blog, Fryrvo"
@@ -37,14 +38,7 @@ theme = 'github-style'
     pagerDirection = "last"
     createIssueManually = true
     distractionFreeMode = false
-[[menu.main]]
-  name = "EC App"
-  url = "/app/ec/"
-  weight = 10
-
-[services]
-  [services.googleAnalytics]
-    ID = "G-JE9TN7XTBZ"
+    
 
 [[params.links]]
   title = "Modrinth"
@@ -55,3 +49,11 @@ theme = 'github-style'
   title = "Spotify"
   href = "https://fryrvo.com/spotify"
   icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png"
+  
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+  
+[services]
+  [services.googleAnalytics]
+    ID = "G-JE9TN7XTBZ"
+
