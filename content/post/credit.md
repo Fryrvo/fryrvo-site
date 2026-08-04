@@ -4,7 +4,7 @@ date: 2026-02-15
 draft: false
 summary: "Credit And Attribution to opensource projects, tools "
 pin: true
-tags: "credits", "info"
+tags: ["credits", "info"]
 ---
 
 # Credit And Attribution 
