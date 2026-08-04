@@ -40,7 +40,7 @@ theme = 'github-style'
 [[menu.main]]
   name = "EC App"
   url = "/app/ec/"
-  weight = 30
+  weight = 10
 
 [services]
   [services.googleAnalytics]
