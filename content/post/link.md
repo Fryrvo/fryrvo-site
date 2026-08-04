@@ -4,6 +4,7 @@ date: 2026-02-15
 draft: false
 summary: "Fryrvo Link"
 pin: false
+tags: ["info"]
 ---
 
 # Fryrvo Portal
