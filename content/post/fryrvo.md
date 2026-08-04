@@ -4,6 +4,7 @@ date: 2026-02-15
 draft: false
 summary: "Hi i'm Fryrvo now ill yap about myself!!"
 pin: true
+tags: ["info"]
 ---
 
 > Alters Meember
