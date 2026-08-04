@@ -6,8 +6,6 @@ summary: "Hi i'm Fryrvo now ill yap about myself!!"
 pin: true
 ---
 
-# Fryrvo Portal
-
 > Alters Meember
 >- [Fryrvo Fox](https://github.com/fryrvo)
 >- [Fosh Fox](https://github.com/FoshFox)

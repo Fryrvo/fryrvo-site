@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-date: 2026-08-02
+date: 2026-02-15
 draft: false
 summary: "Credit And Attribution to opensource projects, tools "
 pin: true
