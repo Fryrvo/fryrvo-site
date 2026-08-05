@@ -20,7 +20,8 @@ We are grateful to be a part open-source community. Thank You All! =)
 * **[Gitalk](https://github.com/gitalk/gitalk)** — comment component based on GitHub Issues.
 * **[Web Browser-Based File Encryption & Decryption](https://github.com/meixler/web-browser-based-file-encryption-decryption)** 
 * **[IT-Tools](https://github.com/CorentinTh/it-tools)**
-
+* **[Hugo](https://github.com/gohugoio/hugo)
+* **[Faircamp](https://codeberg.org/simonrepp/faircamp)
 ---
 
 ### Infrastructure & Hosting
