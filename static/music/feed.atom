@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    
+    <generator uri="https://simonrepp.com/faircamp" version="1.7.0">
+        Faircamp 1.7.0 (856070a)
+    </generator>
+    <id>https://fryrvo.com/music/</id>
+    <link href="https://fryrvo.com/music/feed.atom" rel="self"/>
+    
+    <subtitle>music catalog for fryrvo</subtitle>
+    <title>Fryrvo Music</title>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+    <entry>
+    
+    <id>https://fryrvo.com/music/star/</id>
+    <link href="https://fryrvo.com/music/star/" rel="alternate"/>
+    <title> – STAR</title>
+    <summary>Provided to FryrvoMusic by Fryrvo
+
+Star · Fryrvo
+
+℗ Fryrvo</summary>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/life/</id>
+    <link href="https://fryrvo.com/music/life/" rel="alternate"/>
+    <title> – Life</title>
+    
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/signal/</id>
+    <link href="https://fryrvo.com/music/signal/" rel="alternate"/>
+    <title> – Signal</title>
+    <summary>Provided to FryrvoMusic by Fryrvo
+
+Signal · Fryrvo
+
+℗ Fryrvo</summary>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/time/</id>
+    <link href="https://fryrvo.com/music/time/" rel="alternate"/>
+    <title> – TIME</title>
+    <summary>Provided to FryrvoMusic by Fryrvo
+
+Time · Fryrvo
+
+℗ Fryrvo</summary>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/wanderlust/</id>
+    <link href="https://fryrvo.com/music/wanderlust/" rel="alternate"/>
+    <title> – Wanderlust</title>
+    <summary>Provided to FryrvoMusic by Fryrvo
+
+Wanderlust · Fryrvo
+
+℗ Fryrvo</summary>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/mirror/</id>
+    <link href="https://fryrvo.com/music/mirror/" rel="alternate"/>
+    <title> – Mirror</title>
+    
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/dream/</id>
+    <link href="https://fryrvo.com/music/dream/" rel="alternate"/>
+    <title> – Dream</title>
+    <summary>Provided to FryrvoMusic by Fryrvo
+
+Dream · Fryrvo
+
+℗ Fryrvo</summary>
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+<entry>
+    
+    <id>https://fryrvo.com/music/fate/</id>
+    <link href="https://fryrvo.com/music/fate/" rel="alternate"/>
+    <title> – Fate</title>
+    
+    <updated>2026-08-05T01:14:24.314582139+00:00</updated>
+</entry>
+
+</feed>

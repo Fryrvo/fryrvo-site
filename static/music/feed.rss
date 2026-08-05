@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+    <channel>
+        <atom:link href="https://fryrvo.com/music/feed.rss" rel="self" type="application/rss+xml"/>
+        <description>music catalog for fryrvo</description>
+        <generator>Faircamp 1.7.0 (856070a)</generator>
+        
+        <language>en</language>
+        <lastBuildDate>Wed, 5 Aug 2026 01:14:24 +0000</lastBuildDate>
+        <link>https://fryrvo.com/music/</link>
+        <title>Fryrvo Music</title>
+        
+        <item>
+    <description>Provided to FryrvoMusic by Fryrvo
+
+Star · Fryrvo
+
+℗ Fryrvo</description>
+    <guid>https://fryrvo.com/music/star/</guid>
+    <link>https://fryrvo.com/music/star/</link>
+    <title> – STAR</title>
+    
+</item>
+
+<item>
+    
+    <guid>https://fryrvo.com/music/life/</guid>
+    <link>https://fryrvo.com/music/life/</link>
+    <title> – Life</title>
+    
+</item>
+
+<item>
+    <description>Provided to FryrvoMusic by Fryrvo
+
+Signal · Fryrvo
+
+℗ Fryrvo</description>
+    <guid>https://fryrvo.com/music/signal/</guid>
+    <link>https://fryrvo.com/music/signal/</link>
+    <title> – Signal</title>
+    
+</item>
+
+<item>
+    <description>Provided to FryrvoMusic by Fryrvo
+
+Time · Fryrvo
+
+℗ Fryrvo</description>
+    <guid>https://fryrvo.com/music/time/</guid>
+    <link>https://fryrvo.com/music/time/</link>
+    <title> – TIME</title>
+    
+</item>
+
+<item>
+    <description>Provided to FryrvoMusic by Fryrvo
+
+Wanderlust · Fryrvo
+
+℗ Fryrvo</description>
+    <guid>https://fryrvo.com/music/wanderlust/</guid>
+    <link>https://fryrvo.com/music/wanderlust/</link>
+    <title> – Wanderlust</title>
+    
+</item>
+
+<item>
+    
+    <guid>https://fryrvo.com/music/mirror/</guid>
+    <link>https://fryrvo.com/music/mirror/</link>
+    <title> – Mirror</title>
+    
+</item>
+
+<item>
+    <description>Provided to FryrvoMusic by Fryrvo
+
+Dream · Fryrvo
+
+℗ Fryrvo</description>
+    <guid>https://fryrvo.com/music/dream/</guid>
+    <link>https://fryrvo.com/music/dream/</link>
+    <title> – Dream</title>
+    
+</item>
+
+<item>
+    
+    <guid>https://fryrvo.com/music/fate/</guid>
+    <link>https://fryrvo.com/music/fate/</link>
+    <title> – Fate</title>
+    
+</item>
+
+    </channel>
+</rss>
