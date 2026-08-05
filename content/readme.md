@@ -13,5 +13,12 @@ title: "README.md"
 >
 > **Pural / 2e**
 
-> * Look at my other stuff At [FryrvoArchive](https://github.com/fryrvoarchive)
+> ### Here Where you can I stalk, I mean… find My Stuff!
+> * My Old stuff At [FryrvoArchive](https://github.com/fryrvoarchive)
 > * Minecraft stuff at [Modwinth Studio](https://github.com/Modwinth)
+> * Other Stuff At [Project Index](https://fryrvo.com/post/projectindex/) 
+> * My Music stuff [FryrvoMusic](https://fryrvo.com/music/) / [Spotify](https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3)
+>
+> Other link [Here](https://fryrvo.com/post/link/)
+> Just don't stalk me ....
+> 
