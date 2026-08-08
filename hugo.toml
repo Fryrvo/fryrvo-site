@@ -5,7 +5,8 @@ theme = 'github-style'
 
 [params]
   author = 'Fryrvo Fox'
-  description = 'They/Them'
+  pronouns = 'They/Them'
+  description = 'Professional idiot at day by night still an idiot'
   github = 'Fryrvo'
   twitter = 'Fryrvo'
   location = 'Earth'
