@@ -18,7 +18,7 @@ theme = 'github-style'
   lastmod = true
   userStatusEmoji = "🪨"
 
-  favicon = '/images/favicon.png'
+  favicon = '/icon/favicon.ico'
   headerIcon = '/images/avatar.png'
    
   enableHeader = true
