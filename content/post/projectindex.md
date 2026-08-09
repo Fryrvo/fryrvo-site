@@ -7,6 +7,17 @@ pin: false
 tags: ["info"]
 ---
 
-ah to lazy to write why i think it a good idea anyway just find it your self no one prob reading this anyway
+## Project
+* [FryrvoMusic](https://fryrvo.com/music/)
 
-Comming SOON™
+## Minecraft 
+* [NoMoreOre RSP](https://github.com/Modwinth/NoMoreOre)
+* [NetherRack-NetherRite](https://github.com/Modwinth/NetherRack-NetherRite)
+* [Bwoken-MineCwaft](https://github.com/Modwinth/Bwoken-MineCwaft)
+
+
+* [TMC BOX Client](https://github.com/Modwinth/TMC-Box-Client)
+* [TMC BOX Server](https://github.com/Modwinth/TMC-Box-Server)
+
+
+## Archive
