@@ -12,7 +12,7 @@ date: 2026-08-09
 # Star
 
 <audio controls style="width: 100%; margin: 15px 0;">
-  <source src="/music/star.wav" type="audio/wav">
+  <source src="/music/star.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
