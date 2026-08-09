@@ -22,6 +22,7 @@ We are grateful to be a part open-source community. Thank You All! =)
 * **[IT-Tools](https://github.com/CorentinTh/it-tools)**
 * **[Hugo](https://github.com/gohugoio/hugo)**
 * **[Faircamp](https://codeberg.org/simonrepp/faircamp)**
+* **[simpleicons](https://simpleicons.org/)** - all icon asset
 ---
 
 ### Infrastructure & Hosting
@@ -35,4 +36,4 @@ We are grateful to be a part open-source community. Thank You All! =)
 
 * **Source Code Repository:** [github.com/Fryrvo/fryrvo-site](https://github.com/Fryrvo/fryrvo-site)
 * **Code License:** The source code of this website is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
-* **Assets & Media Copyright:** All assets are **© Copyright Fryrvo 2026. All rights reserved.**
+* **Assets & Media Copyright:** All assets are **Copyright © Fryrvo 2026. All rights reserved.**

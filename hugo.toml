@@ -13,15 +13,12 @@ theme = 'github-style'
   email = 'fryrvo@fryrvo.com'
   url = "https://fryrvo.com"
   avatar = '/images/fryrvo.png'
-
   keywords = "blog, Fryrvo"
   rss = false
   lastmod = true
   userStatusEmoji = "🪨"
-
   favicon = '/images/favicon.png'
   headerIcon = '/images/avatar.png'
-   
   enableHeader = true
   showPosts = true
   showProjects = true
@@ -51,6 +48,16 @@ theme = 'github-style'
   href = "https://fryrvo.com/spotify"
   icon = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/spotify.png"
   
+[[menus.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = 2
+
+[markup]
+[markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
   

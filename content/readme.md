@@ -20,5 +20,5 @@ title: "README.md"
 > * My Music stuff [FryrvoMusic](https://fryrvo.com/music/) / [Spotify](https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3)
 >
 > Other link [Here](https://fryrvo.com/post/link/)
-> Just don't stalk me ....
+> wait are you actually stalk me? ....
 > 

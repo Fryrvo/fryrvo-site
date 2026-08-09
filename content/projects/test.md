@@ -1,8 +1,18 @@
 ---
-title: "test"
-date: 2026-08-02
+title: "My project"
+date: 2026-08-09
 draft: false
-description: "test dec"
+description: "test project"
+tags: [""]
+pin: false
 ---
 
-sometings sooonnn
+# test
+test
+test
+
+# test
+test
+test
+# Test 
+test

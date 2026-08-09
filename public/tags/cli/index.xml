@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cli on Fryrvo</title>
+		<link>http://localhost:1313/tags/cli/</link>
+		<description>Recent content in Cli on Fryrvo</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 09 Aug 2026 16:37:49 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Cool App</title>
+				<link>http://localhost:1313/projects/test/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/test/</guid>
+				<description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Here is a full breakdown of what &lt;strong&gt;My Cool App&lt;/strong&gt; does, how to install it, and why I built it.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fast multi-threaded processing&lt;/li&gt;&#xA;&lt;li&gt;Zero external runtime dependencies&lt;/li&gt;&#xA;&lt;li&gt;Cross-platform support (Linux, macOS, Windows)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cargo install my-cool-app&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+			</item>
+	</channel>
+</rss>

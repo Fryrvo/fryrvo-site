@@ -10,15 +10,50 @@
 		
 		
 		
-			<lastBuildDate>Sat, 08 Aug 2026 12:25:48 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 09 Aug 2026 18:55:27 +0800</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>test</title>
+				<title>Dream</title>
+				<link>http://localhost:1313/music/dream/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/dream/</guid>
+				<description>&lt;a href=&#34;http://localhost:1313/music/dream/&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/music/dream-cover.jpg&#34; alt=&#34;Song Cover&#34; width=&#34;300&#34; style=&#34;border-radius: 6px;&#34;&gt;&#xA;&lt;/a&gt;</description>
+			</item>
+			<item>
+				<title>My project</title>
 				<link>http://localhost:1313/projects/test/</link>
-				<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/projects/test/</guid>
-				<description>&lt;p&gt;sometings sooonnn&lt;/p&gt;</description>
+				<description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;&#xA;&lt;p&gt;test&#xA;test&lt;/p&gt;&#xA;&lt;h1 id=&#34;test-1&#34;&gt;test&lt;/h1&gt;&#xA;&lt;p&gt;test&#xA;test&lt;/p&gt;&#xA;&lt;h1 id=&#34;test-2&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Signal</title>
+				<link>http://localhost:1313/music/signal/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/signal/</guid>
+				<description>&lt;a href=&#34;http://localhost:1313/music/signal/&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/music/signal-cover.jpg&#34; alt=&#34;Song Cover&#34; width=&#34;300&#34; style=&#34;border-radius: 6px;&#34;&gt;&#xA;&lt;/a&gt;</description>
+			</item>
+			<item>
+				<title>Star</title>
+				<link>http://localhost:1313/music/star/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/star/</guid>
+				<description>&lt;a href=&#34;http://localhost:1313/music/star/&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/music/star-cover.jpg&#34; alt=&#34;Song Cover&#34; width=&#34;300&#34; style=&#34;border-radius: 6px;&#34;&gt;&#xA;&lt;/a&gt;</description>
+			</item>
+			<item>
+				<title>Time</title>
+				<link>http://localhost:1313/music/time/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/time/</guid>
+				<description>&lt;a href=&#34;http://localhost:1313/music/time/&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/music/time-cover.jpg&#34; alt=&#34;Song Cover&#34; width=&#34;300&#34; style=&#34;border-radius: 6px;&#34;&gt;&#xA;&lt;/a&gt;</description>
+			</item>
+			<item>
+				<title>Wanderlust</title>
+				<link>http://localhost:1313/music/wanderlust/</link>
+				<pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/wanderlust/</guid>
+				<description>&lt;a href=&#34;http://localhost:1313/music/wanderlust/&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/music/wanderlust-cover.jpg&#34; alt=&#34;Song Cover&#34; width=&#34;300&#34; style=&#34;border-radius: 6px;&#34;&gt;&#xA;&lt;/a&gt;</description>
 			</item>
 			<item>
 				<title>Credits</title>
@@ -53,7 +88,7 @@
 				<link>http://localhost:1313/readme/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/readme/</guid>
-				<description>&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;hi-there&#34;&gt;Hi there&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hi i&amp;rsquo;m Fryrvo&lt;/strong&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;strong&gt;i Mostly known as Musician i also do server stuff!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;i like stone they are so cool!&lt;/strong&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;i like to said i like Rock but people assume that i like Rock+Music =( &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pural / 2e&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;here-where-you-can-i-stalk-i-mean-find-my-stuff&#34;&gt;Here Where you can I stalk, I mean… find My Stuff!&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My Old stuff At &lt;a href=&#34;https://github.com/fryrvoarchive&#34;&gt;FryrvoArchive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Minecraft stuff at &lt;a href=&#34;https://github.com/Modwinth&#34;&gt;Modwinth Studio&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Other Stuff At &lt;a href=&#34;https://fryrvo.com/post/projectindex/&#34;&gt;Project Index&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;My Music stuff &lt;a href=&#34;https://fryrvo.com/music/&#34;&gt;FryrvoMusic&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Other link &lt;a href=&#34;https://fryrvo.com/post/link/&#34;&gt;Here&lt;/a&gt;&#xA;Just don&amp;rsquo;t stalk me &amp;hellip;.&lt;/p&gt;</description>
+				<description>&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;hi-there&#34;&gt;Hi there&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hi i&amp;rsquo;m Fryrvo&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;i Mostly known as Musician i also do server stuff!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;i like stone they are so cool!&lt;/strong&gt;&#xA;&lt;br&gt;&#xA;i like to said i like Rock but people assume that i like Rock+Music =( &lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pural / 2e&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;here-where-you-can-i-stalk-i-mean-find-my-stuff&#34;&gt;Here Where you can I stalk, I mean… find My Stuff!&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My Old stuff At &lt;a href=&#34;https://github.com/fryrvoarchive&#34;&gt;FryrvoArchive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Minecraft stuff at &lt;a href=&#34;https://github.com/Modwinth&#34;&gt;Modwinth Studio&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Other Stuff At &lt;a href=&#34;https://fryrvo.com/post/projectindex/&#34;&gt;Project Index&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;My Music stuff &lt;a href=&#34;https://fryrvo.com/music/&#34;&gt;FryrvoMusic&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/artist/6D4MMKyp97IcBtp3U43Xb3&#34;&gt;Spotify&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Other link &lt;a href=&#34;https://fryrvo.com/post/link/&#34;&gt;Here&lt;/a&gt;&#xA;wait are you actually stalk me? &amp;hellip;.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
