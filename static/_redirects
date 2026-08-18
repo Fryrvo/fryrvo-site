@@ -28,4 +28,7 @@
 /archive      https://github.com/fryrvoarchive                       301
 /fryrvostuido https://github.com/FryrvoSystem                        301
 
+/tos          https://github.com/FryrvoSystem/legal/blob/main/FryrvoLegal/Terms%20of%20Service.md 301
+/Tos          https://github.com/FryrvoSystem/legal/blob/main/FryrvoLegal/Terms%20of%20Service.md 301
+
 /app/tool/*  /app/tool/index.html  200
