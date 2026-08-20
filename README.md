@@ -1,11 +1,12 @@
-## Fryrvo Site
-
-everytings is here 
-
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/2vdok.svg)](https://status.fryrvo.com)
-
-**All Credit**
-**[here](https://fryrvo.com/post/credit/)**
+```
+Fryrvo Site
 
 
-test edit
+Credit
+https://cdn.fryrvo.com/
+
+more here
+https://fryrvo.com/post/credit/
+
+All assets are Copyright © Fryrvo 2026. All rights reserved.
+The source code is licensed under the MIT License.
