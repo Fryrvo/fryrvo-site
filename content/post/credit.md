@@ -17,12 +17,15 @@ We are grateful to be a part open-source community. Thank You All! =)
 ### Open-Source Projects & Libraries
 
 * **[github-style](https://github.com/MeiK2333/github-style)** — Hugo theme GitHub's design.
+* **[PaperMod](https://github.com/adityatelange/hugo-PaperMod/)** — Hugo theme
 * **[Gitalk](https://github.com/gitalk/gitalk)** — comment component based on GitHub Issues.
 * **[Web Browser-Based File Encryption & Decryption](https://github.com/meixler/web-browser-based-file-encryption-decryption)** 
 * **[IT-Tools](https://github.com/CorentinTh/it-tools)**
 * **[Hugo](https://github.com/gohugoio/hugo)**
 * **[Faircamp](https://codeberg.org/simonrepp/faircamp)**
-* **[simpleicons](https://simpleicons.org/)** - all icon asset
+* **[simpleicons](https://simpleicons.org/)** - icon asset
+* **[FryrvoCDN](https://cdn.fryrvo.com/)** - icon and asset
+
 ---
 
 ### Infrastructure & Hosting
